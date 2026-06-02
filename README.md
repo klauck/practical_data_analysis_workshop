@@ -1,1 +1,11 @@
-# practical_data_analysis_workshop
+# Mehr als nur Tabellenkalkulationen: Praktische Datenanalyse mit offenen Technologien - Workshop
+
+**Zusammenfassung.** Offene Daten liegen oft in Tabellenform vor. Kleine Datensätze lassen sich in Tabellenkalkulationen analysieren. Große Datenmengen scheinen komplexe IT-Kenntnisse oder teure Systeme zu erfordern. Doch das stimmt nicht. Moderne Open-Data-Management-Technologien ermöglichen die effiziente Analyse von Millionen Datensätzen auf einem Standard-Laptop mit einfachen SQL- oder Python-Kenntnissen. In diesem praxisorientierten Workshop erlernen Sie die wichtigsten Konzepte und praktische Fertigkeiten.
+
+## Slides
+
+To be published
+
+
+
+
