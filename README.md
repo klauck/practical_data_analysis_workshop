@@ -4,8 +4,10 @@
 
 ## Slides
 
-To be published
+
+[workshop_slides.pdf](https://github.com/klauck/practical_data_analysis_workshop/blob/main/26_06_03_halfpap_presentation.pdf)
 
 
+## Hands-on Beispiele
 
-
+Will be added after the workshop
