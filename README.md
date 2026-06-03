@@ -11,3 +11,13 @@
 ## Hands-on Beispiele
 
 Will be added after the workshop
+
+### Tabellenkalkulation
+
+1. Beispiel-CSV-Datei [Population_Berlin.csv](https://raw.githubusercontent.com/klauck/practical_data_analysis_workshop/refs/heads/main/data/Population_Berlin.csv) herunterladen
+2. CSV-Datei in Tabellenkalkulationsprogramm öffnen
+3. Demonstrate
+   - Berechnung einer Summe `=SUM(Startzelle:Endzelle)`
+   - Pivottabelle
+   - Visualisierung
+<img width="400" alt="spreadsheet_screenshot" src="https://github.com/user-attachments/assets/9724e324-6e8c-4851-8bd9-32d73baa6720" />
