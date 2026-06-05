@@ -10,7 +10,7 @@
 
 ## Hands-on Beispiele
 
-Will be added after the workshop
+Weitere Beispiele füge ich in den nächsten Tagen hinzu.
 
 ### Tabellenkalkulation
 
